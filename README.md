@@ -1,5 +1,6 @@
 # Monero
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rpcjacobs/monero-site/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rpcjacobs/monero-site/?branch=master)
 Copyright (c) 2014-2016, The Monero Project
 
 ## Development Resources
