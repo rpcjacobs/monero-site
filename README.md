@@ -1,5 +1,6 @@
 # Monero
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/282224fc5b444bf1a1c8adae7a5c35c2)](https://www.codacy.com/app/rpcjacobs/monero-site?utm_source=github.com&utm_medium=referral&utm_content=rpcjacobs/monero-site&utm_campaign=badger)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rpcjacobs/monero-site/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rpcjacobs/monero-site/?branch=master)
 Copyright (c) 2014-2016, The Monero Project
 
